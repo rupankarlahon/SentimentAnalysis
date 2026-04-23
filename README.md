@@ -1,2 +1,16 @@
-# SentimentAnalysis
-A sentiment analysis project to analyze Google reviews of various restaurants in Majitar and evaluate the model’s performance using different parameters.
+# Sentiment-Based Food Recommendation System for Restaurant Reviews (Majitar)
+
+## Setup Instructions
+
+1. Install requirements:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Generate dummy data:
+   ```bash
+   python data/generate_dataset.py
+   ```
+3. Run CLI:
+   ```bash
+   python main.py
+   ```
