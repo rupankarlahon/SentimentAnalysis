@@ -17,8 +17,6 @@ Instead of relying on basic 5-star ratings or scrolling through hundreds of revi
 
 ##  Setup & Installation
 
-I've made sure this project is super easy to get running on your local machine.
-
 ### 1. Install the Requirements
 Make sure you have Python installed, then install the necessary AI and data packages:
 ```bash
