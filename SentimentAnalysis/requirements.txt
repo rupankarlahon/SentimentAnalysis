@@ -1,8 +1,0 @@
-pandas
-numpy
-scikit-learn
-nltk
-requests
-torch
-transformers
-tqdm
